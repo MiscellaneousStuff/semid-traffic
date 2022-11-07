@@ -130,3 +130,6 @@ dmypy.json
 
 # Ignore video files
 .mkv
+
+# Ignore model checkpoints
+.pt
