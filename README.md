@@ -16,7 +16,11 @@ to determine the relevant usage of each route.
 - /weights/
   - /weights/base/ (yolov7)
     - yolov7.pt
-  - /weights/seg/ (yolov7-segmentation)
+  - /weights/seg/ (yolov7-segmentation) <= Recommended
     - yolov7-seg.pt
   - /weights/tracking/ (yolov7-object-tracking)
     - yolov7_tracking.pt
+
+## Object Tracking (Predicted Class / Bounding Boxes)
+
+Look inside of `yolov7-segmentation/runs/exp_/SEMID_TRAFFIC_TEST_TILTON.mp4|SEMID_TRAFFIC_TEST_NYC.mp4`
