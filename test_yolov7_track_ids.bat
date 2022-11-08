@@ -1,0 +1,2 @@
+rem python ./yolov7-object-tracking/detect_and_track.py --weights yolov7_tracking.pt --source "SEMID_TRAFFIC_TEST_TILTON.mkv" --colored-trk
+python ./yolov7-object-tracking/detect_and_track.py --weights yolov7_tracking.pt --source "SEMID_TRAFFIC_TEST_NYC.mkv" --colored-trk

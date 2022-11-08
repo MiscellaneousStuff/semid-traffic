@@ -4,3 +4,6 @@
 [submodule "yolov7-segmentation"]
 	path = yolov7-segmentation
 	url = https://github.com/RizwanMunawar/yolov7-segmentation
+[submodule "yolov7-object-tracking"]
+	path = yolov7-object-tracking
+	url = https://github.com/RizwanMunawar/yolov7-object-tracking

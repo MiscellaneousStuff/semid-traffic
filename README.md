@@ -10,3 +10,13 @@ to determine the relevant usage of each route.
 
 - [New York City (Live)](https://www.youtube.com/watch?v=1-iS7LArMPA)
 - [Village of Tinton (Live)](https://www.youtube.com/watch?v=5_XSYlAfJZM)
+
+## Weights (Directory)
+
+- /weights/
+  - /weights/base/
+    - yolov7.pt
+  - /weights/seg/
+    - yolov7-seg.pt
+  - /weights/tracking/
+    - yolov7_tracking.pt

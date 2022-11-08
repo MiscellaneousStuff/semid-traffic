@@ -1,0 +1,2 @@
+rem python ./yolov7/detect.py --weights ./weights/base/yolov7.pt --conf 0.25 --img-size 640 --source SEM_ID_TRAFFIC_TEST_TILTON_TINY.mp4 --device cpu
+python ./yolov7/detect.py --weights ./weights/base/yolov7.pt --conf 0.25 --img-size 320 --source SEM_ID_TRAFFIC_TEST_TILTON_TINY.mp4 --device cpu
