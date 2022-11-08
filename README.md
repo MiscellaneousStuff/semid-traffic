@@ -14,9 +14,9 @@ to determine the relevant usage of each route.
 ## Weights (Directory)
 
 - /weights/
-  - /weights/base/
+  - /weights/base/ (yolov7)
     - yolov7.pt
-  - /weights/seg/
+  - /weights/seg/ (yolov7-segmentation)
     - yolov7-seg.pt
-  - /weights/tracking/
+  - /weights/tracking/ (yolov7-object-tracking)
     - yolov7_tracking.pt
