@@ -8,9 +8,23 @@ to determine the relevant usage of each route.
 
 ## Usage
 
-To test how well the baseline model performs, run:
+To test how well the baseline model performs, install the requirements.txt:
 ```
 pip install requirements.txt
+```
+
+Then run the object segmentation model on one of the test videos:
+
+## Tilton Live Stream Clip
+
+```bash
+python yolov7-segmentation/segment/predict.py --weights ./weights/seg/yolov7-seg.pt --source "SEM_ID_TRAFFIC_TEST_TILTON_TINY.mp4" --trk
+```
+
+## NYC Live Stream Clip
+
+```bash
+python yolov7-segmentation/segment/predict.py --weights ./weights/seg/yolov7-seg.pt --source "SEMID_TRAFFIC_TEST_NYC_TINY.mp4" --trk
 ```
 
 ## Datasets (Testing)
