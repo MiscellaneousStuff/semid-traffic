@@ -6,6 +6,10 @@ Prototype demonstrating the feasibility of tracking vehicles through
 traffic to identify, classify and count vehicles through particular junctions
 to determine the relevant usage of each route.
 
+All of the approaches in this repository use yolo-v7.
+
+[Arxiv Link](https://arxiv.org/pdf/2207.02696.pdfhttps://arxiv.org/pdf/2207.02696.pdf)
+
 ## Usage
 
 To test how well the baseline model performs, install the requirements.txt:
