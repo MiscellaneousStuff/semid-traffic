@@ -5,7 +5,7 @@
 Bounding box co-ordinates extracted directly from what is sent to
 the rendering of the bounding boxes during inference for each frame.
 I'm not sure how to interpret the segment information which is saved
-by default.
+by default. This is only for the `yolov7-segmentation` submodule.
 
 ## About
 
