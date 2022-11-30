@@ -15,7 +15,7 @@ to determine the relevant usage of each route.
 
 All of the approaches in this repository use yolo-v7.
 
-[Arxiv Link](https://arxiv.org/pdf/2207.02696.pdfhttps://arxiv.org/pdf/2207.02696.pdf)
+[Arxiv Link](https://arxiv.org/pdf/2207.02696.pdf)
 
 ## Usage
 
